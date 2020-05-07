@@ -1,0 +1,8 @@
+<root>
+    <item
+        name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addTestDevice(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_-&gt;this&quot;" />
+        </annotation>
+    </item>
+</root>
